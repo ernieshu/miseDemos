@@ -1,0 +1,33 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.classpath
+.project
+.settings/
+*.jars
+*.jar
+*.zip
+*.tar.gz
+*.rar
+.DS_Store
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build
+*.class
+.gradle/
+build/
